@@ -14,6 +14,10 @@
   <img src="exa.mp4" alt="Screen Recording" width="700">
 </p>
 
+## Drive video link
+    
+    https://drive.google.com/file/d/16qN5-FTHUVYb80j9rR6540ZUMIuCQYT9/view?usp=drive_link
+
 <br>
 <br>
 
