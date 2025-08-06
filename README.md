@@ -14,7 +14,7 @@
   <img src="exa.mp4" alt="Screen Recording" width="700">
 </p>
 
-## Drive video link
+## Voice Feedback with detection in drive video
     
     https://drive.google.com/file/d/16qN5-FTHUVYb80j9rR6540ZUMIuCQYT9/view?usp=drive_link
 
@@ -31,7 +31,7 @@ We can then convert the annotated text into voice responses and give the basic p
 <br>
 
 <p align="center">
- <img src = "overview.png">
+ <img src = "Object-Detection-with-Voice-Feedback-YOLO-v3-and-gTTS-main\overview.png">
 </p> 
 
 <br>
